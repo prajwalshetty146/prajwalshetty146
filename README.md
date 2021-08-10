@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajwalshetty146
 - 👀 I’m interested in learning development related skills.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning Front End Developing.
 - 📫 How to reach me prajwalshetty146@gmail.com
 
 <!---
